@@ -1,12 +1,12 @@
 {
-  "name": "root",
+  "name": "@SunoAries/test_npm",
   "private": true,
   "devDependencies": {
     "lerna": "^5.1.8",
     "nx": "^14.4.2"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "@SunoAries:registry":"https://npm.pkg.github.com"
   },
   "repository": "git://github.com/SunoAries/test_npm.git"
 }
